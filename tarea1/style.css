@@ -1,0 +1,8 @@
+/*fondo*/
+body {background-color:bisque;}
+
+/*color de texto*/
+p{color:blue;}
+
+/*selector de clase con color de letra y tamaño de letra segundo parrafo class="" */
+.nombre {color:black; font: size 30px;}

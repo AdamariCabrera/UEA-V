@@ -1,0 +1,14 @@
+/*
+selector de fondo y p color y tamaño de font*/
+
+body{
+    background-color:  #e0b0bc;
+    
+    }
+
+    p{
+        color:black;
+        font-size: 18px;
+    }
+
+    

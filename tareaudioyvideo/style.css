@@ -1,0 +1,74 @@
+/* Estilo general para el body */
+body {
+    background-color: #e3f2fd; /* Color de fondo azul claro */
+    font-family: Arial, sans-serif;
+    color: #333; /* Color de texto */
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+/* Título principal */
+h1 {
+    font-size: 2.5em;
+    color: #0277bd; /* Color azul oscuro */
+}
+
+/* Estilo para la galería de imágenes */
+.imagenes {
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.imagenes img {
+    width: 80%;
+    max-width: 800px;
+    height: auto;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para la descripción del texto */
+.descripcion {
+    background-color: #ffffff;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    text-align: left;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.descripcion p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* Estilo para el video */
+.video {
+    margin: 30px auto;
+    max-width: 1000px;
+}
+
+.video iframe {
+    width: 100%;
+    max-width: 800px;
+    height: 450px;
+    border-radius: 10px;
+}
+
+/* Estilo para el reproductor de sonido */
+.sonido {
+    margin: 30px auto;
+    max-width: 600px;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.sonido audio {
+    width: 100%;
+    max-width: 400px;
+}
